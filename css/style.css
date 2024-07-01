@@ -74,3 +74,26 @@ table{
 .col1-2{
     width: 25%;
 }
+
+h2{
+    color: grey;
+}
+
+#footerbox1{
+    height: 14rem;
+    background-repeat: no-repeat;
+    background-image: url(../img/monitor.jpg);
+}
+
+#footerbox2{
+    height: 14rem;
+    background-repeat: no-repeat;
+    background-image: url(../img/graph.jpg);
+}
+
+.footerboxdescription{
+    color: white;
+    font-size: x-large;
+    font-weight: bold;
+    padding: 10px;
+}
