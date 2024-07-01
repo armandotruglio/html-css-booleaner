@@ -40,3 +40,7 @@ address{
 #tims{
     margin: 0;
 }
+
+#figcaption{
+    font-size: small;
+}
