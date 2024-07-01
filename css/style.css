@@ -8,6 +8,10 @@ body{
     margin: 0 auto;
 }
 
+h1{
+    margin-bottom: 0;
+}
+
 .box{
     margin: 0;
     background-color: #4ea0ff;
@@ -24,6 +28,7 @@ body{
 }
 
 address{
+    margin-bottom: 5px;
     font-style: normal;
     color: grey;
 }
@@ -33,6 +38,7 @@ address{
 }
 
 #date{
+    margin-bottom: 20px;
     font: small;
     color: grey;
 }
