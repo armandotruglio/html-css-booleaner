@@ -4,7 +4,7 @@ body{
 
 .container{
     background-color: white;
-    width: 1000px;
+    width: 950px;
     margin: 0 auto;
 }
 
@@ -21,4 +21,18 @@ body{
     width: 13em;
     height: 1em;
     padding-top: 2%;
+}
+
+address{
+    font-style: normal;
+    color: grey;
+}
+
+.blue{
+    color: #4ea0ff;
+}
+
+#date{
+    font: small;
+    color: grey;
 }
