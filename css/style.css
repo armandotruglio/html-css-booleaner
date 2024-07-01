@@ -4,7 +4,7 @@ body{
 
 .container{
     background-color: white;
-    width: 950px;
+    width: 900px;
     margin: 0 auto;
 }
 
@@ -35,4 +35,8 @@ address{
 #date{
     font: small;
     color: grey;
+}
+
+#tims{
+    margin: 0;
 }
