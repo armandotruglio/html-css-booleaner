@@ -44,3 +44,33 @@ address{
 #figcaption{
     font-size: small;
 }
+
+.marker{
+    background-color: yellow;
+}
+
+ul{
+    padding-left: 17px;
+}
+
+th {
+    font-style: normal;
+    color: white;
+    padding-right: 90px;
+   }
+
+table{
+    border-spacing: 0;
+}
+
+.darkblue{
+    background-color: #4ea0ff;
+}
+
+.lightblue{
+    background-color: #b1e5f2;
+}
+
+.col1-2{
+    width: 25%;
+}
