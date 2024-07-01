@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+
+.container{
+    background-color: white;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.box{
+    margin: 0;
+    background-color: #4ea0ff;
+    background-image: url(../img/pattern.png);
+    height: 6rem;
+    background-size: 31%;
+}
+
+#logo{
+    margin: 0;
+    width: 13em;
+    height: 1em;
+    padding-top: 2%;
+}
